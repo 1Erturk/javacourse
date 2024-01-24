@@ -1,0 +1,2 @@
+Enes Erturk,70,100,100
+Ege Erturk,90,90,80
